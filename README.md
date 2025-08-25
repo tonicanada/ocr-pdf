@@ -26,6 +26,8 @@ ocr-pdf/
  ├── .env.example
  └── secrets/
       └── key.json   # <-- NO subir nunca a git
+```
+
 ---
 
 ## ⚙️ Configuración
