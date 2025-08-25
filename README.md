@@ -16,6 +16,7 @@ Se empaqueta en Docker y puede usarse fácilmente desde **n8n** u otros sistemas
 
 ## 📂 Estructura del proyecto
 
+```text
 ocr-pdf/
  ├── app/
  │    └── main.py
@@ -25,7 +26,6 @@ ocr-pdf/
  ├── .env.example
  └── secrets/
       └── key.json   # <-- NO subir nunca a git
-
 ---
 
 ## ⚙️ Configuración
